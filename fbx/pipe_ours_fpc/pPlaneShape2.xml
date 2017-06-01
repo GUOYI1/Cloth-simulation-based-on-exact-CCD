@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Autodesk_Cache_File>
+  <cacheType Type="OneFile" Format="mcx"/>
+  <time Range="250-37500"/>
+  <cacheTimePerFrame TimePerFrame="250"/>
+  <cacheVersion Version="2.0"/>
+  <extra>untitled</extra>
+  <extra>maya 2016</extra>
+  <extra>SIG</extra>
+  <Channels>
+    <channel0 ChannelName="pPlaneShape2" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="37500"/>
+    <channel1 ChannelName="pPlaneShape2_normals" ChannelType="FloatVectorArray" ChannelInterpretation="normals" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="37500"/>
+  </Channels>
+</Autodesk_Cache_File>
