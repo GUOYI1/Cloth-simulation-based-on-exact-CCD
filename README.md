@@ -1,6 +1,7 @@
 Cloth-simulation-based-on-exact-CCD
 ======================
-This is a Maya plugin of cloth simulation implemented by *Jiawei Wang* and me. To load this plugin into Maya, please copy all the files in the **bin** folder into the **bin** folder under your Maya installation path. Then in Maya, you can click the *Windows -> Settings/Preferences -> Plug-in Manager* to load the **ClothSolverPlugins.py**.If it succeeds, you will see the GUI of the plugin.    
+This is a Maya plugin of cloth simulation implemented by *Jiawei Wang* and me. To see the video demo, click [here](https://vimeo.com/234173469).
+To load this plugin into Maya, please copy all the files in the **bin** folder into the **bin** folder under your Maya installation path. Then in Maya, you can click the *Windows -> Settings/Preferences -> Plug-in Manager* to load the **ClothSolverPlugins.py**.If it succeeds, you will see the GUI of the plugin.    
         
 For this cloth plugin, we implemented the following features.
 
